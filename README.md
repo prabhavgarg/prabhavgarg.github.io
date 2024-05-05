@@ -1,37 +1,9 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Agency](http://startbootstrap.com/template-overviews/agency/)
-
-[Agency](http://startbootstrap.com/template-overviews/agency/) is a one page agency portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, a responsive timeline, and a working PHP contact form.
-
-## Getting Started
-
-Several options are available to get started quickly:
-* [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/agency/)
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-agency.git`
-* Fork the repo
-
-## Developing Using Source Files
-
-To use the source files, you will need to have npm installed globally along with Gulp.js. To start:
-* Run `npm install` in the root directory
-* Run `gulp dev` and edit the files as needed
-
-If you need to update the plugins included with this template, simply run the following tasks:
-* First run `npm update` to update the dependencies
-* Then run `gulp copy` to copy the new versions to their proper destinations
-
-## Bugs and Issues
-
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-agency/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/agency/).
-
-## Creator
-
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
-
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
-
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
-
-## Copyright and License
-
-Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-agency/blob/gh-pages/LICENSE) license.
+![1](https://github.com/prabhavgarg/prabhavgarg.github.io/assets/21111506/75df7d94-6b24-4682-bb4b-644a0c5fb244)
+![1](https://github.com/prabhavgarg/prabhavgarg.github.io/assets/21111506/5097df91-90c3-4551-ae04-7370392bbf2f)
+![1](https://github.com/prabhavgarg/prabhavgarg.github.io/assets/21111506/910544c9-d7c8-462c-81a3-88aa7cb8be79)
+![1](https://github.com/prabhavgarg/prabhavgarg.github.io/assets/21111506/8a9a1242-7cf5-4155-a43f-db6ec28fef7e)
+![1](https://github.com/prabhavgarg/prabhavgarg.github.io/assets/21111506/7407342d-2dc6-4abe-a621-9935e223c988)
+![1](https://github.com/prabhavgarg/prabhavgarg.github.io/assets/21111506/f60be81a-d1bd-45cd-a055-8bc61b6befe4)
+![1](https://github.com/prabhavgarg/prabhavgarg.github.io/assets/21111506/c8a49e47-4d26-4c89-a68c-a907eba60ddc)
+![1](https://github.com/prabhavgarg/prabhavgarg.github.io/assets/21111506/90d076b0-1921-4c0f-ab9c-20d2e8589da8)
+![1](https://github.com/prabhavgarg/prabhavgarg.github.io/assets/21111506/b26f72b1-0fe9-434e-84a4-564e8ad016da)
